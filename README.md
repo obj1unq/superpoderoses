@@ -235,7 +235,7 @@ y cuando lo hace su nivel de estrategia queda en 2 y el de espiritualidad en 7. 
 
 
 # Acerca de los tests
-Este enunciado es acompañado con el archivo cuarenta.wtest que tiene diseñado los test a realizar. 
+Este enunciado es acompañado con un archivo de test que tiene diseñado los test a realizar. 
 Es importante aclarar que:
 - Estos test se proponen para facilitar el desarrollo. Se puede diseñar otros si así se considera necesario.
 - El conjunto de tests propuesto es suficiente para este ejercicio. No hace falta agregar nuevos, pero tampoco se prohibe hacerlo.
