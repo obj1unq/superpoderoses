@@ -200,7 +200,7 @@ Para los siguientes peligros:
 
 Un **Metahumano** es un personaje especial que se diferencia por lo siguiente:
 * Su capacidad de batalla es el doble que el de un personaje
-* Siempre puede afrontar un peligro que tiene desechos radiactivos, independientemente de sus poderes
+* Siempre es inmune a la radiactividad, independientemente de sus poderes
 * cuando afronta un peligro, además de incrementar su estrategia también incrementa su espiritualidad
 con el valor del nivel de complejidad del peligro
 
